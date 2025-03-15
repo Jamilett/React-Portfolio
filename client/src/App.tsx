@@ -5,7 +5,7 @@ import AboutMe from './pages/AboutMe';
 import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
-import Home from './pages/home';
+import Home from './pages/Home';
 import "./App.css";
 
 function App() {
